@@ -8,4 +8,5 @@ primera versión de mi hoja de vida
 ## Habilidades
 - Conocimientos básicos en programación
 - Uso de herramientas colaborativas como GitHub
-##Estado civil **soltero
+##Estado
+-civil **soltero
